@@ -1,7 +1,7 @@
 import { useEffect } from "react";
 import { useState } from "react";
 
-import './Css/historial.css'
+import '/CSS/historial.css'
 
 export default function Historial() {
     const [data, setData] = useState([]);

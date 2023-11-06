@@ -1,9 +1,9 @@
 import { useState, useEffect, useMemo } from "react";
 import Swal from "sweetalert2";
 import Propiedad from "/src/Components/Propiedad";
-import Propiedad from "/src/Components/Ubicacion";
-import Propiedad from "/src/Components/MetrosCuadrados";
-import Ubicacion from "../Components/Ubicacion";
+import Ubicacion from "/src/Components/Ubicacion";
+import MetrosCuadrados from "/src/Components/MetrosCuadrados";
+
 
 
 export default function Index() {

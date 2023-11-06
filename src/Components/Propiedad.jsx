@@ -15,4 +15,4 @@ function Propiedad({ propiedades, handlePropChange }) {
     );
 }
 
-export default Propiedad
+export default Propiedad;
