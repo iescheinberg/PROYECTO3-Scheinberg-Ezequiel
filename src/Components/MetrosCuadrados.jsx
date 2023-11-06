@@ -1,7 +1,7 @@
 function MetrosCuadrados({ data, handleM2Change }) {
     return (
         <div>
-            <label htmlFor="metros2">Ingrese metros cuadrados:</label>
+            <label htmlFor="metros2">Ingrese m<sup>2</sup></label>
             <input
                 type="number"
                 id="metros2"
